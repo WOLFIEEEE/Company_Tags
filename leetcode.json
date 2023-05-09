@@ -2,7 +2,7 @@
     "minimum-consecutive-cards-to-pick-up": [
         {
             "company": "Google",
-            "num_occur": 1
+            "num_occur": 10
         }
     ],
     "remove-digit-from-number-to-maximize-result": [
