@@ -14,7 +14,7 @@
     "minimum-average-difference": [
         {
             "company": "Amazon",
-            "num_occur": 3
+            "num_occur": 2
         }
     ],
     "count-prefixes-of-a-given-string": [
