@@ -7254,11 +7254,11 @@
     "01-matrix": [
         {
             "company": "Google",
-            "num_occur": 6
+            "num_occur": 10
         },
         {
             "company": "Amazon",
-            "num_occur": 6
+            "num_occur": 10
         },
         {
             "company": "Facebook",
